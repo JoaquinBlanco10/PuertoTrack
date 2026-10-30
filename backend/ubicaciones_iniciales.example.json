@@ -1,0 +1,27 @@
+[
+  {
+    "codigo": "PATIO_NORTE",
+    "nombre": "Patio Norte",
+    "tipo": "interna"
+  },
+  {
+    "codigo": "PATIO_SUR",
+    "nombre": "Patio Sur",
+    "tipo": "interna"
+  },
+  {
+    "codigo": "ZONA_INSPECCION",
+    "nombre": "Zona de inspección",
+    "tipo": "interna"
+  },
+  {
+    "codigo": "DEPOSITO_EXTERNO",
+    "nombre": "Depósito externo",
+    "tipo": "externa"
+  },
+  {
+    "codigo": "FUERA_PUERTO",
+    "nombre": "Fuera del puerto",
+    "tipo": "externa"
+  }
+]

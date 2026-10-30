@@ -1,0 +1,44 @@
+backend/.venv/
+rfid-service/.venv/
+access-service/.venv/
+**/__pycache__/
+**/.pytest_cache/
+*.pyc
+.env
+**/.env
+node_modules/
+frontend/dist/
+*.tsbuildinfo
+
+# Dependencias y entornos virtuales
+node_modules/
+.venv/
+venv/
+
+# Python
+__pycache__/
+.pytest_cache/
+*.pyc
+
+# Flutter y Dart
+.dart_tool/
+.flutter-plugins-dependencies
+build/
+.flutter-plugins
+
+# Archivos compilados
+dist/
+coverage/
+
+# Credenciales y configuracion local
+.env
+.env.*
+!.env.example
+!.env.sample
+*.pem
+*.key
+
+# Temporales
+*.log
+*.mp4
+*.zip
